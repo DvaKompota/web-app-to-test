@@ -1,6 +1,7 @@
 # TA frameworks
 /FETA-Cypress
 /FETA-Robot
+/FETA-Playwright
 
 # compiled output
 /dist
